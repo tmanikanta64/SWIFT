@@ -1,6 +1,6 @@
 # swift
 * swift is a compiled programming language.
-* swift is desighnwd by chris lattner.
+* swift is desighned by chris lattner.
 * It was developed by Apple Inc for macOS,iOS,watchOS,tvOS,LinuX.
-* In swift code written at global scope is used as the entry point for the program,so we no need to use a main function.
+* code written at global scope is used as the entry point for the program,so we no need to use a main function.
 * In swift we no need to write semicolons at the wnd of every statement.

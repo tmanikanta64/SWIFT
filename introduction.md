@@ -3,4 +3,10 @@
 * swift is desighned by chris lattner.
 * It was developed by Apple Inc for macOS,iOS,watchOS,tvOS,LinuX.
 * code written at global scope is used as the entry point for the program,so we no need to use a main function.
-* In swift we no need to write semicolons at the wnd of every statement.
+* In swift we no need to write semicolons at the end of every statement.
+### simple values
+* Use let to make a constant and var to make a variable.
+'''var myVariable = 4
+   myVariable = 16
+   let myConstant = 8'''
+   

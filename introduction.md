@@ -6,7 +6,6 @@
 * In swift we no need to write semicolons at the end of every statement.
 ### simple values
 * Use let to make a constant and var to make a variable.
-'''var myVariable = 4
+* ''' var myVariable = 4
    myVariable = 16
-   let myConstant = 8'''
-   
+   let myConstant = 8 '''

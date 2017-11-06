@@ -8,6 +8,7 @@
 * Use let to make a constant and var to make a variable.
 ```var myVariable = 4
    myVariable = 16
-   let myConstant = 8```
+   let myConstant = 8
+   ```
 * A Constant or a variable must have the same type as the value you want to assign to it.
 * However,you don't always have to write the explicitly.    

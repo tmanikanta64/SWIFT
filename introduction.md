@@ -12,4 +12,12 @@
    let myConstant = 8
    ```
 * A Constant or a variable must have the same type as the value you want to assign to it.
-* However,you don't always have to write the explicitly.    
+* However,you don't always have to write the explicitly.
+* To download shift for windows visit https://swiftforwindows.codeplex.com/ .
+* Providing a value when you create a constant or variable lets the compiler infer its type. In the example above, the   
+   compiler infers that myVariable is an integer because its initial value is a integer.
+* If the initial value doesn’t provide enough information (or if there is no initial value), specify the type by writing 
+   it after the variable, separated by a colon.
+```
+    let myVariable : double = 20.5
+    ```

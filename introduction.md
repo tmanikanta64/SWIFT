@@ -23,6 +23,40 @@ let myConstant = 8
    compiler infers that myVariable is an integer because its initial value is a integer.
 * If the initial value doesn’t provide enough information (or if there is no initial value), specify the type by writing 
    it after the variable, separated by a colon.
+
 ```swift
-    let myVariable : double = 20.5
+let myVariable : double = 20.5
+// explict type giving
+var string : String = "Hello world"
+```
+
+* But we can't convert the `String` type to another type
+```swift
+print("prints the line");
+```
+
+* if we want to print the value of the `string`
+* we cn do that using \()
+```swift
+print("The string is \(string)")
+```
+
+# For explicit specifying of type
+* Int or Int64 --> integer type
+* UInt64 --> Unsigned 64 bit integer
+* Double or Float --> float type
+* String --> strings
+* Bool --> boolean values
+
+```swift
+print("The largest Unsigned integer: \(UInt.max)")
+```
+
+* FLT_MAX and DBL_MAX gives the maximux values.
+* for floats we have accuracy precision of 6 digits
+* for double we have accuracy precision of 15 digits
+
+```swift
+let isDead : Bool = true
+print(isDead)
 ```

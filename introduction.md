@@ -36,7 +36,7 @@ print("prints the line");
 ```
 
 * if we want to print the value of the `string`
-* we cn do that using \()
+* we can do that using \()
 ```swift
 print("The string is \(string)")
 ```
